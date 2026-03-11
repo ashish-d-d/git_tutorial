@@ -2,5 +2,6 @@ welcome to my GitHub account
 
 thank you
 
-
 yo how are you
+
+new lines are added
