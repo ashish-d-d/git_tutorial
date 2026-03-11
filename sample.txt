@@ -1,2 +1,6 @@
 A sample file is created
+
 new line added from main branch
+
+new line added from feature branch
+
